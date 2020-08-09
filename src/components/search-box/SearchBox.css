@@ -1,0 +1,58 @@
+/* .form-inline input[type="search"] {
+  width: 55%;
+  position: absolute;
+  left: 30%;
+  top: 16px;
+}
+i {
+  color: white;
+  position: absolute;
+  left: 86%;
+  top: 16px;
+  background-color: black;
+  padding: 11px;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+  .form-inline input[type="search"] {
+    position: relative;
+    width: 100%;
+    left: 20%;
+    top: 20%;
+  }
+  i {
+    position: relative;
+    left: 25%;
+    top: 30%;
+  }
+} */
+.form-inline input[type="search"] {
+  width: 55%;
+  position: absolute;
+  left: 30%;
+  top: 20px;
+}
+i {
+  color: white;
+  position: absolute;
+  left: 86%;
+  top: 20px;
+  background-color: black;
+  padding: 11px;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+  .form-inline input[type="search"] {
+    position: relative;
+    width: 120%;
+    left: 10%;
+    top: 40px;
+  }
+  i {
+    position: relative;
+    left: 140%;
+    top: 2px;
+  }
+}

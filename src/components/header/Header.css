@@ -1,0 +1,19 @@
+.navbar{
+    position: relative
+}
+.navbar-light {
+    background-color: #900c3f !important;
+   
+}
+ .nav-link{
+    color: white !important;
+    margin-left: 15px;
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+
+/* .ml-auto{
+    margin-left: 5px !important;
+  
+} */
